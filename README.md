@@ -1,2 +1,2 @@
-# ecomerce-website-with-admin-panel
+# ecomerce-website
 E-comerce website with admin-panel in php
